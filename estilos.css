@@ -1,0 +1,76 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+#lateral{
+    height: 1550px;
+    margin-left: 15px;
+}
+
+#caja{
+    width: 50%; 
+}
+
+#acordion-css li{
+    list-style-type: none;
+    
+    
+}
+#acordion-css a{
+    text-decoration: none;
+    color: black;
+   position: relative;
+   left: -15px;
+    
+    }
+
+    #cont-carusel{
+        margin: auto;
+        margin-top: 10px;
+    }
+    #carouselExample img{
+        height: 300px;
+    }
+
+    #ofertas {
+        background: rgba(33, 47, 61, 1 );
+        width: 110px;
+        text-align: center;
+        color: white;
+        margin-top: 10px;
+        border: 1px solid white;
+        border-radius: 5px;
+    }
+
+    #card-cont{
+        margin-left: 70px;
+        margin-top: 20px;
+
+    }
+    .card{
+        
+        margin: 20px;
+    }
+   
+    #precio{
+        display: flex;
+    }
+    #precio p{
+        margin: 3px;
+    }
+    #anterior{
+        color: gray;
+        text-decoration:line-through;
+    }
+
+    footer{
+
+        height: 50px;
+    }
+
+
+
+    
